@@ -1,6 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
-let g:netrw_dirhist_1='/Users/yuanyuan_zhang/qc/gitrepos/data_pipeline_dashboard/ansible'
-let g:netrw_dirhist_2='/Users/yuanyuan_zhang/qc/gitrepos/data_pipeline_dashboard/ansible/production'
-let g:netrw_dirhist_3='/Users/yuanyuan_zhang/qc/gitrepos/etc_puppet/manifests'
-let g:netrw_dirhist_4='/Users/yuanyuan_zhang/qc/gitrepos/etc_puppet/modules/apache-service/manifests'
